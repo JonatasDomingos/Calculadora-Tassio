@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CalculeAqui</string>
+    <string name="action_settings">Settings</string>
+    <string name="JSimples">Simples</string>
+    <string name="JComposto">Composto</string>
+    <string name="desconto">Desconto</string>
+    <string name="info1">Escolha a condição do juros</string>
+    <string name="TituloDescontoTela">Desconto Simples</string>
+    <string name="ValorNominal">Valor do Produto (R$)</string>
+    <string name="Taxa">Taxa do Desconto (%)</string>
+    <string name="Tempo">Tempo (meses)</string>
+    <string name="BtCalcular">Calcular</string>
+    <string name="BtVoltar">Voltar</string>
+    <string name="JurosSimples">Juros Simples</string>
+    <string name="Montante">Capital Inicial</string>
+    <string name="TotalAPlicação">O valor total da Aplicação é:</string>
+    <string name="totalJurosSimples">O valor total do juros é:</string>
+    <string name="nomeApp">CalculeAqui</string>
+</resources>
